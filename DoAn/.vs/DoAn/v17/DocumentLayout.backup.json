@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|c:\\users\\lenovo\\onedrive\\desktop\\doan\\doan\\doan\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\navbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\navbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\hoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\hoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\shared\\_layoutbanhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\_layoutbanhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\hoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\hoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\giohang\\_giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\giohang\\_giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\models\\thongtinnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\models\\thongtinnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\hoa\\chitiethoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\hoa\\chitiethoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\lienhe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\lienhe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\navbar\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\navbar\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\taikhoan\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\taikhoan\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\taikhoan\\quenmatkhau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\taikhoan\\quenmatkhau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\loaihoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\loaihoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\admin\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\admin\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\dathang\\dathangthanhcong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\dathang\\dathangthanhcong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\controllers\\vechungtoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\vechungtoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\taikhoan\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\taikhoan\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\dathang\\chonnganhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\dathang\\chonnganhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\dathang\\thanhtoanqr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\dathang\\thanhtoanqr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\dathang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\dathang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\danhmuc\\_danhmuctheohoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\danhmuc\\_danhmuctheohoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\giohang\\xemgiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\giohang\\xemgiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\shared\\_layoutauth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\_layoutauth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\content\\flowershop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\content\\flowershop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\danhmuc\\_danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\danhmuc\\_danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\danhmuc\\_danhmuctheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\danhmuc\\_danhmuctheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\doan\\views\\vechungtoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24990FA3-2B1B-42E3-B51E-AAA56015C088}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\vechungtoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\DanhMucController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:47:02.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:05:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatHangController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\DatHangController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\DatHangController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\DatHangController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\DatHangController.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv98AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:28:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:20:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\HoaController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\HoaController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\HoaController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\HoaController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAgwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:21:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavBarController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\NavBarController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\NavBarController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\NavBarController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\NavBarController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:30:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAcwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:35:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T05:07:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutBanHoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutBanHoa.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\_LayoutBanHoa.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutBanHoa.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\_LayoutBanHoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:00:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_GioHangPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\GioHang\\_GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\GioHang\\_GioHangPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\GioHang\\_GioHangPartial.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\GioHang\\_GioHangPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T16:57:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChiTietHoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Hoa\\ChiTietHoa.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Hoa\\ChiTietHoa.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Hoa\\ChiTietHoa.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Hoa\\ChiTietHoa.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAG0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:28:27.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Hoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Hoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Hoa\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Hoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:25:31.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T06:35:21.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T06:35:23.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T06:28:18.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThongTinNH.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\ThongTinNH.cs",
+              "RelativeDocumentMoniker": "DoAn\\Models\\ThongTinNH.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\ThongTinNH.cs",
+              "RelativeToolTip": "DoAn\\Models\\ThongTinNH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:42:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:25:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "DoAn\\Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\GioHang.cs",
+              "RelativeToolTip": "DoAn\\Models\\GioHang.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:14:50.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "DoAn\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Models\\Menu.cs",
+              "RelativeToolTip": "DoAn\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T08:33:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LienHeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\LienHeController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\LienHeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\LienHeController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\LienHeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:25:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Web.config",
+              "RelativeDocumentMoniker": "DoAn\\Web.config",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Web.config",
+              "RelativeToolTip": "DoAn\\Web.config",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-10T07:23:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThongTin.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\ThongTin.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\TaiKhoan\\ThongTin.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\ThongTin.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\TaiKhoan\\ThongTin.cshtml",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAmwOwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T09:26:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\LienHe\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\LienHe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\LienHe\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\LienHe\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T03:25:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\NavBar\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\NavBar\\_NavBar.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\NavBar\\_NavBar.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\NavBar\\_NavBar.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:31:54.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_DanhMuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMuc.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DanhMuc\\_DanhMuc.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMuc.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DanhMuc\\_DanhMuc.cshtml",
+              "ViewState": "AgIAALIAAAAAAAAAAAAhwLoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:48:42.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\nguye\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\nguye\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\nguye\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\nguye\\AppData\\Local\\Temp\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-11T08:41:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuenMatKhau.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\QuenMatKhau.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\TaiKhoan\\QuenMatKhau.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\QuenMatKhau.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\TaiKhoan\\QuenMatKhau.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T15:40:56.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Global.asax.cs",
+              "RelativeDocumentMoniker": "DoAn\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Global.asax.cs",
+              "RelativeToolTip": "DoAn\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:51:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KhachHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\KhachHang.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\KhachHang.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\KhachHang.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\KhachHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T09:33:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChonNganHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ChonNganHang.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DatHang\\ChonNganHang.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ChonNganHang.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DatHang\\ChonNganHang.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T10:55:11.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChiTietDonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\ChiTietDonHang.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\TaiKhoan\\ChiTietDonHang.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\ChiTietDonHang.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\TaiKhoan\\ChiTietDonHang.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T12:17:45.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "DoAn\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "DoAn\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:38:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_DanhMucTheoHoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMucTheoHoa.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DanhMuc\\_DanhMucTheoHoa.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMucTheoHoa.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DanhMuc\\_DanhMucTheoHoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:00:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VeChungToiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\VeChungToiController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\VeChungToiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Controllers\\VeChungToiController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\VeChungToiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:28:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_DanhMucTheoLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMucTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DanhMuc\\_DanhMucTheoLoai.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DanhMuc\\_DanhMucTheoLoai.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DanhMuc\\_DanhMucTheoLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:01:54.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FlowerShop.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Content\\FlowerShop.css",
+              "RelativeDocumentMoniker": "DoAn\\Content\\FlowerShop.css",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Content\\FlowerShop.css",
+              "RelativeToolTip": "DoAn\\Content\\FlowerShop.css",
+              "ViewState": "AgIAAFMFAAAAAAAAAAAAwFkFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T09:19:27.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoaiHoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\LoaiHoa.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\LoaiHoa.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\LoaiHoa.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\LoaiHoa.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwF8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T07:14:36.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T05:03:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\DonHang.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\DonHang.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\DonHang.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\DonHang.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T06:29:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Admin.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Content\\Admin.css",
+              "RelativeDocumentMoniker": "DoAn\\Content\\Admin.css",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Content\\Admin.css",
+              "RelativeToolTip": "DoAn\\Content\\Admin.css",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T05:02:19.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\SanPham.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\SanPham.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\SanPham.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAQwLgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T06:13:34.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DanhMuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\DanhMuc.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Admin\\DanhMuc.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Admin\\DanhMuc.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Admin\\DanhMuc.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T05:47:32.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\VeChungToi\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\VeChungToi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\VeChungToi\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\VeChungToi\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T03:28:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ThanhToanQR.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ThanhToanQR.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DatHang\\ThanhToanQR.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ThanhToanQR.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DatHang\\ThanhToanQR.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAFgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:50:51.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DatHangThanhCong.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\DatHangThanhCong.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DatHang\\DatHangThanhCong.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\DatHangThanhCong.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DatHang\\DatHangThanhCong.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:15:02.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DatHang\\ThanhToan.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\DatHang\\ThanhToan.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DatHang\\ThanhToan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:11:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "XemGioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\GioHang\\XemGioHang.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\GioHang\\XemGioHang.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\GioHang\\XemGioHang.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\GioHang\\XemGioHang.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAG8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T16:44:36.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:54:07.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:39:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_LayoutAuth.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutAuth.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\_LayoutAuth.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\DoAn\\DoAn\\DoAn\\Views\\Shared\\_LayoutAuth.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\_LayoutAuth.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAANIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:36:30.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
